@@ -104,9 +104,9 @@ const ChartLordBlogList = () => {
         <meta property="og:title" content="ChartLord AI Blog - Reviews and Guides" />
         <meta property="og:description" content="Everything you need to know about ChartLord AI: reviews, how it works, user experiences, and important cautions." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://yourblog.com/chartlord-ai" />
+        <meta property="og:url" content="https://chartai.vercel.app/chartlord-ai" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://yourblog.com/chartlord-ai" />
+        <link rel="canonical" href="https://chartai.vercel.app/chartlord-ai" />
       </Helmet>
 
       <div className="blog-page">
