@@ -99,14 +99,14 @@ const ChartLordBlogList = () => {
       {/* SEO Meta Tags - Edit these for each deployment */}
       <Helmet>
         <title>ChartLord AI </title>
-        <meta name="description" content="Real reviews, beginner guides, success stories, and important information about ChartLord AI automated trading software for Kenyan traders." />
+        <meta name="description" content="Chartload AI." />
         <meta name="keywords" content="ChartLord AI" />
         <meta property="og:title" content="ChartLord AI" />
         <meta property="og:description" content="Chartload AI." />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://chartai.vercel.app/chartlord-ai" />
+        <meta property="og:type" content="Chartload AI" />
+        <meta property="og:url" content="https://chartai.vercel.app/" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://chartai.vercel.app/chartlord-ai" />
+        <link rel="canonical" href="https://chartai.vercel.app/" />
       </Helmet>
 
       <div className="blog-page">
